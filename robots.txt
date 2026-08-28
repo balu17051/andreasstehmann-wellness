@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://balu17051.github.io/andreasstehmann-wellness//sitemap.xml
